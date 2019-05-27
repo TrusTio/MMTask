@@ -1,0 +1,7 @@
+{
+	"Report definition":{
+		"topPerformersThreshold": 90,
+		"useExprienceMultiplier": false,
+		"periodLimit": 7
+	}
+}

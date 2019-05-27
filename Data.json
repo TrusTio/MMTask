@@ -1,0 +1,47 @@
+{
+	"Data":[
+		{
+			"name": "John Smith",
+			"totalSales": 252,
+			"salesPeriod": 10,
+			"experienceMultiplier": 0.5
+		},
+		{
+			"name": "David Prowless",
+			"totalSales": 554,
+			"salesPeriod": 10,
+			"experienceMultiplier": 0.3
+		},
+		{
+			"name": "Bobbi Tinashe",
+			"totalSales": 130,
+			"salesPeriod": 55,
+			"experienceMultiplier": 0.5
+		},
+		{
+			"name": "Jehoiakim Wobbe",
+			"totalSales": 757,
+			"salesPeriod": 5,
+			"experienceMultiplier": 0.5
+		},
+		{
+			"name": "Belial Murray",
+			"totalSales": 258,
+			"salesPeriod": 7,
+			"experienceMultiplier": 0.3
+		},
+		{
+			"name": "Karla Felix",
+			"totalSales": 258,
+			"salesPeriod": 11,
+			"experienceMultiplier": 0.5
+		},
+		{
+			"name": "Sahar Roselle",
+			"totalSales": 339,
+			"salesPeriod": 4,
+			"experienceMultiplier": 0.9
+		}
+
+	]
+}
